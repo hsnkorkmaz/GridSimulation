@@ -12,7 +12,7 @@ Download Link:
 https://drive.google.com/file/d/1nfKw6iOwGX8XA8ZDd6Lax4q9ZaXkPqdE/view?usp=sharing
 
 1. Download the zip file
-2. Go into Release/net5.0/
+2. Go into Release/net5.0/publish
 3. Run GridUI.exe
 
 When you run the project you will have below options
