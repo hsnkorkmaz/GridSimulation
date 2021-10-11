@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridUI", "GridUI\GridUI.csproj", "{293C7006-AD49-460A-8478-B63E5017A46B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{293C7006-AD49-460A-8478-B63E5017A46B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{293C7006-AD49-460A-8478-B63E5017A46B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{293C7006-AD49-460A-8478-B63E5017A46B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{293C7006-AD49-460A-8478-B63E5017A46B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14E89156-31C3-43A9-AF1C-AD0F79256A44}
+	EndGlobalSection
+EndGlobal
