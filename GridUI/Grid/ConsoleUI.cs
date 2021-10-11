@@ -91,6 +91,14 @@ namespace GridUI.Grid
             int.TryParse(commandList[2], out int positionX);
             int.TryParse(commandList[3], out int positionY);
 
+            if (columnSize > 50 || rowSize > 50)
+            {
+                Console.Clear();
+                Console.WriteLine("Column size or Row size is too much!");
+                return;
+            }
+
+
             if (positionX > columnSize || positionX < 0)
             {
                 Console.Clear();
